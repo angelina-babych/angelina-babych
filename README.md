@@ -7,7 +7,7 @@
 [![Gitter](https://badges.gitter.im/angelina-babych/community.svg)](https://gitter.im/angelina-babych/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&theme=dark)
  
  <p align="center">
- <img  alt="angelina-babych's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/angelina-babych?cardType=level&theme=dark" align="center"/>  
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=angelina-babych&theme=dark" align="center"/>
+ <img  alt="angelina-babych's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/angelina-babych?cardType=level&theme=dark" align="center" width="50%"/>  
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=angelina-babych&theme=dark" align="center" width="50%"/>
  </p>
  
