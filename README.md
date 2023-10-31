@@ -8,6 +8,6 @@
  
  <p align="center">
  <img  alt="angelina-babych's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/angelina-babych?cardType=level" align="center" width="35%"/>  
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=angelina-babych" align="center" width="40%"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=angelina-babych)](https://git.io/streak-stats)
  </p>
  
